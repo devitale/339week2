@@ -1,0 +1,45 @@
+body{
+    margin:5px;
+    padding:5px;
+    line-height:1.15;
+ }
+  
+ h1,h2, h3{
+    font-size: medium;
+    font-weight: normal;
+    margin-top:15px;
+    border-bottom: 1px solid black;
+  
+ }
+ ul li{
+    
+    margin-left: 25px;
+    list-style-type: upper-roman;
+
+    /*display: inline-block;
+    border: 1px black solid;
+    border-radius: 25px;
+    padding: 1px 10px 1px 10px;
+    background: aqua ;
+    width: 100px;*/
+    
+
+ }
+ 
+ nav li{
+    display: inline-block;
+    margin-left: 25px;
+    list-style-type: upper-roman;
+    border: 1px black solid;
+    border-radius: 25px;
+    padding: 2px 10px 2px 10px;
+    background: #edc37b;
+    text-decoration: black;
+    width: 100px;
+    
+ }
+
+ a:visited{
+    color: black;
+    text-decoration: none;
+ }
